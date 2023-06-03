@@ -1,0 +1,72 @@
+h1{
+    background-image: url("https://nftnewspro.com/wp-content/uploads/2022/03/Rihanna_is_ready_to_launch_her_Fenty_cosmetics_brand_into_the_metaverse.jpg");
+    background-color: #2176AE;
+    color: #FBB13C;
+    font-size: 5em;
+    height: 350px;
+    margin: 80px;
+    border-radius: 20%;
+    text-align: center;
+    top: 50%;
+    bottom: 50%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3px dashed #eba08f;
+    filter: contrast(1.5);
+}
+
+div.box{
+    margin: 80px;
+    background-color: #ffffff;
+    border: 5px solid #57B8FF;
+    border-radius: 4%;
+    opacity: 0.9
+}
+img {
+    width: 100 px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 30%;
+    border: 6px double #B66D0D;
+    align-items: center;
+   
+}
+h3 {
+    color: #FE6847;
+    background-color: #FBB13C;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/92-926058_rihanna-collage.jpg");
+    
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+    color: #2176AE;
+    font-size: 1.1em;
+}
+
+li, ol {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+   
+}
+
+div.button{
+    text-align: center;
+}
+button {
+    padding: 10px;
+    background-color: black;
+    color: #FE6847;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
